@@ -52,4 +52,7 @@ The output of execution results are available in the notebook. In case some woul
    |pandas      |1.2.4  |
    |NumPy       |1.20.1 |
    Matplotlib   |3.3.4  |
-   
+
+## Publications
+This work has been published in the following journal:
+Chua, T.-H.; Salam, I. Evaluation of Machine Learning Algorithms in Network-Based Intrusion Detection Using Progressive Dataset. Symmetry 2023, 15, 1251. https://doi.org/10.3390/sym15061251
